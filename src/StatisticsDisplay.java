@@ -6,6 +6,7 @@
  * @since Version 1.0
  */
 
+
 public class StatisticsDisplay implements Display {
 
     // Instance variables
